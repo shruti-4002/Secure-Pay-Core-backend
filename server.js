@@ -14,7 +14,7 @@ const PORT = process.env.PORT || 3000;
 
 
 app.listen(PORT,()=>{
-    console.log(`server started at 8000`)
+    console.log(`server started at ${PORT}`)
 })
 
 
