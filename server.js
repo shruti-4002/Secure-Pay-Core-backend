@@ -8,12 +8,12 @@ require("./src/workers/emailWorker");
 connectDb();
 
 
+const PORT = process.env.PORT || 3000;
 
 
 
 
-
-app.listen(8000,()=>{
+app.listen(PORT,()=>{
     console.log(`server started at 8000`)
 })
 
