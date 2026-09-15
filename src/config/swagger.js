@@ -11,7 +11,7 @@ const options = {
     },
     servers: [
       {
-        url: 'http://localhost:8000',
+        url: 'https://my-backend-ledger.duckdns.org/',
         description: 'Development Server',
       },
     ],
