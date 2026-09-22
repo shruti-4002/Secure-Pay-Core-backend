@@ -1,6 +1,7 @@
-# 🏦 Professional Banking & Ledger System (Backend) [Live]:https://high-concurrency-atomic-booking-system.onrender.com
+# 🏦 Professional Banking & Ledger System (Backend) 
+# [Live](https://my-backend-ledger.duckdns.org/)     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [API Docs](https://my-backend-ledger.duckdns.org/api-docs/)
  
- API_DOCS:https://high-concurrency-atomic-booking-system.onrender.com/api-docs/
+ 
 
 This is a full-fledged Banking and Ledger System engineered to demonstrate how real-world financial applications track transactions, maintain user balances, and ensure data integrity. 
 
