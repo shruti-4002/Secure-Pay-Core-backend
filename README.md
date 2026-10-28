@@ -1,5 +1,5 @@
 # 🏦 Professional Banking & Ledger System (Backend) 
-# [Live](https://my-backend-ledger.duckdns.org/)     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [API Docs](https://my-backend-ledger.duckdns.org/api-docs/)
+# [Live](https://secure-pay-core-backend.onrender.com/)     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [API Docs](https://secure-pay-core-backend.onrender.com//api-docs/)
  
  
 
