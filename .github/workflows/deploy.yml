@@ -27,22 +27,9 @@ jobs:
         MONGO_URI: ${{ secrets.MONGO_URI }}
         JWT_SECRET: "test-jwt-secret-for-ci"
 
-    - name: Deploy to AWS EC2 via SSH
-      uses: appleboy/ssh-action@v1.0.3
-      with:
-        host: ${{ secrets.EC2_HOST }}
-        username: ${{ secrets.EC2_USERNAME }}
-        key: ${{ secrets.EC2_SSH_KEY }}
-        script: |
-          if [ -d ~/app ]; then
-            cd ~/app
-            git pull origin main
-          else
-            git clone https://github.com/shruti-4002/Secure-Pay-Core-backend.git ~/app
-            cd ~/app
-          fi
-
-          echo "${{ secrets.PRODUCTION_ENV_FILE }}" > .env
-          
-          docker compose down
-          docker compose up -d --build
+    - name: AWS Deployment Simulation (Migration Notice)
+      run: |
+        echo "=================================================="
+        echo "AWS EC2 Infrastructure successfully decommissioned."
+        echo "Production backend is now automatically deployed on Render!"
+        echo "=================================================="
