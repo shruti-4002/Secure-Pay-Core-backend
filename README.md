@@ -1,5 +1,5 @@
 # 🏦 Professional Banking & Ledger System (Backend) 
-# [Live](https://secure-pay-core-backend.onrender.com/)     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [API Docs](https://secure-pay-core-backend.onrender.com//api-docs/)
+# [Live](https://secure-pay-core-backend.onrender.com/)     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [API Docs](https://secure-pay-core-backend.onrender.com/api-docs/)
  
  
 
