@@ -3,7 +3,7 @@ module.exports = function getHomeView() {
         <div style="font-family: Arial, sans-serif; text-align: center; padding: 40px; background-color: #f8f9fa; color: #333; border-radius: 12px; max-width: 700px; margin: 40px auto; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
             <h1 style="color: #2c3e50; margin-bottom: 10px;">🚀 Secure Pay Core Backend</h1>
             <p style="font-size: 15px; color: #555; line-height: 1.5;">
-                Production-grade Fintech Engine deployed on <strong>AWS EC2</strong> via <strong>Nginx Reverse Proxy</strong> & Automated <strong>CI/CD Pipeline</strong>.
+                Production-grade Fintech Engine recently migrated from <strong>AWS</strong> to <strong>Render</strong> for enhanced cost-effectiveness, powered by automated <strong>CI/CD Pipelines</strong> and <strong>Redis</strong> queue management.
             </p>
             
             <hr style="border: none; border-top: 1px solid #ddd; margin: 25px 0;">
